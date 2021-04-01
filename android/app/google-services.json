@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "54724169362",
+    "firebase_url": "https://evva-7d405-default-rtdb.firebaseio.com",
+    "project_id": "evva-7d405",
+    "storage_bucket": "evva-7d405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54724169362:android:86c69564cd8b734b9ba04b",
+        "android_client_info": {
+          "package_name": "evvapp.evva_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54724169362-eonl8pj37vbrjclhhri0ckb775hh5kou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq64X65Yc0Q1YzW53Z9C_J4ohlsD3ZUd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54724169362-eonl8pj37vbrjclhhri0ckb775hh5kou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
